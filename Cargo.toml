@@ -1,0 +1,5 @@
+[package]
+
+name = "PegGame"
+version = "0.0.1"
+authors = ["Preston Turner <prestonturner42@gmail.com>"]
